@@ -9,7 +9,7 @@ npm install random-formal-email-generator
 
 ```
 
-## Installation
+## Usage example
 const generateRandomFormalEmail = require('random-formal-email-generator');
 
 const email = generateRandomFormalEmail();
