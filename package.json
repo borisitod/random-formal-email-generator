@@ -1,0 +1,15 @@
+{
+  "name": "random-formal-email-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["random", "email", "generator"],
+  "author": "Boris Chen",
+  "license": "MIT",
+  "dependencies": {
+    "randomstring": "^1.3.0"
+  }
+}
