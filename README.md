@@ -7,7 +7,9 @@ Generate random formal email addresses for your testing needs.
 ```bash
 npm install random-formal-email-generator
 
-## Usage example
+```
+
+## Installation
 const generateRandomFormalEmail = require('random-formal-email-generator');
 
 const email = generateRandomFormalEmail();
